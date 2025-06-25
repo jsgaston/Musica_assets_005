@@ -1,1 +1,38 @@
+name: Generar lista de música
 
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Ejecutar todos los días a las 00:00 UTC
+  push:
+    paths:
+      - '**.m4a'
+      - '**.mp3'
+      - '.github/workflows/generate_song_list.yml'
+      - 'generate_song_list.py'
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Checkout del repositorio
+        uses: actions/checkout@v3
+
+      - name: 🔧 Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 📦 Instalar dependencias
+        run: pip install mutagen
+
+      - name: 🧠 Ejecutar script para generar JSON
+        run: python generate_song_list.py
+
+      - name: 💾 Commit y push del JSON actualizado
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'actions@github.com'
+          git add song_list005.json
+          git commit -m '🔄 Actualizar song_list005.json automáticamente'
+          git push
