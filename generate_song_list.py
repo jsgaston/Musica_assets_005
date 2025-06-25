@@ -6,7 +6,7 @@ VALID_EXTENSIONS = [".m4a", ".mp3", ".wav", ".flac", ".ogg", ".aac"]
 
 # Configura aquí tu usuario y repo de GitHub
 GITHUB_USER = "jsgaston"
-GITHUB_REPO = "Musica_assets_004"
+GITHUB_REPO = "Musica_assets_005"
 GITHUB_BRANCH = "main"
 RAW_BASE_URL = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/{GITHUB_BRANCH}/"
 
@@ -34,6 +34,6 @@ def get_audio_files():
 
 if __name__ == "__main__":
     song_data = get_audio_files()
-    with open("song_list004.json", "w", encoding="utf-8") as f:
+    with open("song_list005.json", "w", encoding="utf-8") as f:
         json.dump(song_data, f, indent=2, ensure_ascii=False)
-    print(f"✅ Generado song_list004.json con {len(song_data)} canciones.")
+    print(f"✅ Generado song_list005.json con {len(song_data)} canciones.")
