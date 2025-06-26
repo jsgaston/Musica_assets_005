@@ -2,7 +2,7 @@ name: Generar lista de música
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Ejecutar todos los días a las 00:00 UTC
+    - cron: '0 * * * *'  # Todos los días a las 00:00 UTC
   push:
     paths:
       - '**.m4a'
@@ -10,6 +10,8 @@ on:
       - '.github/workflows/generate_song_list.yml'
       - 'generate_song_list.py'
 
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -29,16 +31,13 @@ jobs:
       - name: 🧠 Ejecutar script para generar JSON
         run: python generate_song_list.py
 
-      - name: Stash local changes
-        run: |
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-          git stash --include-untracked
+      - name: 🐞 Verificar contenido generado
+        run: cat song_list005.json
 
       - name: 💾 Commit y push del JSON actualizado
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'actions@github.com'
-          git add song_list005.json           
-          git commit -m '🔄 Actualizar song_list005.json automáticamente'
+          git add song_list005.json
+          git diff --cached --quiet || git commit -m '🔄 Actualizar song_list005.json automáticamente'
           git push
