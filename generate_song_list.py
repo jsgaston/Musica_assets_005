@@ -33,7 +33,12 @@ def get_audio_files():
     return [extract_metadata(file) for file in os.listdir(".") if os.path.isfile(file) and is_audio_file(file)]
 
 if __name__ == "__main__":
-    song_data = get_audio_files()
-    with open("song_list005.json", "w", encoding="utf-8") as f:
-        json.dump(song_data, f, indent=2, ensure_ascii=False)
-    print(f"✅ Generado song_list005.json con {len(song_data)} canciones.")
+    try:
+        song_data = get_audio_files()
+        with open("song_list005.json", "w", encoding="utf-8") as f:
+            json.dump(song_data, f, indent=2, ensure_ascii=False)
+        print(f"✅ Generado song_list005.json con {len(song_data)} canciones.")
+    except Exception as e:
+        import traceback
+        traceback.print_exc()
+        exit(1)
