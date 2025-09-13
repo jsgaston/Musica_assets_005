@@ -1,5 +1,15 @@
 [
   {
+    "title": "Light Another",
+    "artist": "Cypress Hill",
+    "album": "Original Album Classics: Cypress Hill",
+    "duration": 197,
+    "genre": "Hip-hop/Rap",
+    "year": "1991-08-13T12:00:00Z",
+    "filename": "1-06 Light Another.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/1-06%20Light%20Another.m4a"
+  },
+  {
     "title": "No puede er primo",
     "artist": null,
     "album": null,
@@ -20,6 +30,16 @@
     "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/01%20Reproches.m4a"
   },
   {
+    "title": "Ultraviolet Dreams",
+    "artist": "Cypress Hill",
+    "album": "Original Album Classics: Cypress Hill",
+    "duration": 41,
+    "genre": "Hip-hop/Rap",
+    "year": "1991-08-13T12:00:00Z",
+    "filename": "1-05 Ultraviolet Dreams.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/1-05%20Ultraviolet%20Dreams.m4a"
+  },
+  {
     "title": "Oye compai",
     "artist": null,
     "album": null,
@@ -38,6 +58,16 @@
     "year": "1991-08-13T12:00:00Z",
     "filename": "1-01 Pigs.m4a",
     "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/1-01%20Pigs.m4a"
+  },
+  {
+    "title": "Hole In the Head",
+    "artist": "Cypress Hill",
+    "album": "Original Album Classics: Cypress Hill",
+    "duration": 213,
+    "genre": "Hip-hop/Rap",
+    "year": "1991-08-13T12:00:00Z",
+    "filename": "1-04 Hole In the Head.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/1-04%20Hole%20In%20the%20Head.m4a"
   },
   {
     "title": "70 campanadas más las de los alcaides y todos los anteriores por parejas naturales y todos los amigos habidos y por haber",
