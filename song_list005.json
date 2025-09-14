@@ -1,5 +1,15 @@
 [
   {
+    "title": "Como El Agua",
+    "artist": "Camarón de la Isla, Paco de Lucía, Tomatito & Pepe De Lucía",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 221,
+    "genre": "Flamenco",
+    "year": "1981-01-01T12:00:00Z",
+    "filename": "1-10 Como El Agua.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/1-10%20Como%20El%20Agua.m4a"
+  },
+  {
     "title": "Light Another",
     "artist": "Cypress Hill",
     "album": "Original Album Classics: Cypress Hill",
@@ -38,6 +48,16 @@
     "year": "1993-07-20T12:00:00Z",
     "filename": "2-06 Cock the Hammer.m4a",
     "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/2-06%20Cock%20the%20Hammer.m4a"
+  },
+  {
+    "title": "Vamos Niña Pa La Bamba",
+    "artist": "Camarón de la Isla",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 241,
+    "genre": "Flamenco",
+    "year": "1976-01-01T12:00:00Z",
+    "filename": "2-08 Vamos Niña Pa La Bamba.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/2-08%20Vamos%20Niña%20Pa%20La%20Bamba.m4a"
   },
   {
     "title": "Break It Up",
@@ -120,6 +140,16 @@
     "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/2-01%20I%20Wanna%20Get%20High.m4a"
   },
   {
+    "title": "Estoy Cumpliendo Condena",
+    "artist": "Camarón de la Isla & Paco de Lucía",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 268,
+    "genre": "Flamenco",
+    "year": "1971-06-21T12:00:00Z",
+    "filename": "2-04 Estoy Cumpliendo Condena.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/2-04%20Estoy%20Cumpliendo%20Condena.m4a"
+  },
+  {
     "title": "Funk Freakers",
     "artist": "Cypress Hill",
     "album": "Original Album Classics: Cypress Hill",
@@ -128,6 +158,16 @@
     "year": "1995-10-31T12:00:00Z",
     "filename": "3-10 Funk Freakers.m4a",
     "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/3-10%20Funk%20Freakers.m4a"
+  },
+  {
+    "title": "Samara",
+    "artist": "Camarón de la Isla",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 209,
+    "genre": "Flamenco",
+    "year": "1977-01-01T12:00:00Z",
+    "filename": "2-09 Samara.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/2-09%20Samara.m4a"
   },
   {
     "title": "Al Verte Las Flores Lloran (feat. Paco de Lucía) [Bulerías]",
@@ -148,6 +188,16 @@
     "year": "1998-09-30T12:00:00Z",
     "filename": "4-02 Checkmate.m4a",
     "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/4-02%20Checkmate.m4a"
+  },
+  {
+    "title": "Vivire",
+    "artist": "Camarón de la Isla",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 231,
+    "genre": "Flamenco",
+    "year": "1979-01-01T12:00:00Z",
+    "filename": "1-12 Vivire.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/1-12%20Vivire.m4a"
   },
   {
     "title": "Red, Meth & B (feat. Redman & Method Man)",
@@ -220,6 +270,16 @@
     "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/5-03%20Kronologik%20(feat.%20Kurupt).m4a"
   },
   {
+    "title": "Calle Real (feat. Paco de Lucía) [Fandangos Del Alosno]",
+    "artist": "Camarón de la Isla",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 209,
+    "genre": "Flamenco",
+    "year": "1979-01-01T12:00:00Z",
+    "filename": "1-11 Calle Real (feat. Paco de Lucía.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/1-11%20Calle%20Real%20(feat.%20Paco%20de%20Lucía.m4a"
+  },
+  {
     "title": "Interlude",
     "artist": "Cypress Hill",
     "album": "Original Album Classics: Cypress Hill",
@@ -228,6 +288,16 @@
     "year": "1993-07-20T12:00:00Z",
     "filename": "2-07 Interlude.m4a",
     "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/2-07%20Interlude.m4a"
+  },
+  {
+    "title": "Reniego Haberte Encontrao (Tientos)",
+    "artist": "Camarón de la Isla & Paco de Lucía",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 241,
+    "genre": "Flamenco",
+    "year": "1974-01-01T12:00:00Z",
+    "filename": "1-06 Reniego Haberte Encontrao (Tien.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/1-06%20Reniego%20Haberte%20Encontrao%20(Tien.m4a"
   },
   {
     "title": "Cada Vez Que Nos Miramos (feat. Paco de Lucía)",
@@ -290,6 +360,16 @@
     "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/5-06%20Amplified.m4a"
   },
   {
+    "title": "Bulerias De La Perla",
+    "artist": "Camarón de la Isla",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 259,
+    "genre": "Flamenco",
+    "year": "1979-01-01T12:00:00Z",
+    "filename": "2-12 Bulerias De La Perla.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/2-12%20Bulerias%20De%20La%20Perla.m4a"
+  },
+  {
     "title": "Dr. Greenthumb",
     "artist": "Cypress Hill",
     "album": "Original Album Classics: Cypress Hill",
@@ -298,6 +378,26 @@
     "year": "1998-09-01T12:00:00Z",
     "filename": "4-13 Dr. Greenthumb.m4a",
     "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/4-13%20Dr.%20Greenthumb.m4a"
+  },
+  {
+    "title": "La Primavera",
+    "artist": "Camarón de la Isla",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 230,
+    "genre": "Flamenco",
+    "year": "1992-08-07T12:00:00Z",
+    "filename": "2-14 La Primavera.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/2-14%20La%20Primavera.m4a"
+  },
+  {
+    "title": "Y No Llegaste A Quererme (feat. Paco de Lucía)",
+    "artist": "Camarón de la Isla",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 179,
+    "genre": "Flamenco",
+    "year": "1970-01-01T12:00:00Z",
+    "filename": "2-03 Y No Llegaste A Quererme (feat..m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/2-03%20Y%20No%20Llegaste%20A%20Quererme%20(feat..m4a"
   },
   {
     "title": "Pigs",
@@ -430,6 +530,16 @@
     "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/5-08%20Memories.m4a"
   },
   {
+    "title": "Potro De Rabia Y Miel",
+    "artist": "Camarón de la Isla",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 344,
+    "genre": "Flamenco",
+    "year": "1992-08-07T12:00:00Z",
+    "filename": "1-16 Potro De Rabia Y Miel.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/1-16%20Potro%20De%20Rabia%20Y%20Miel.m4a"
+  },
+  {
     "title": "Oye compai",
     "artist": null,
     "album": null,
@@ -490,6 +600,16 @@
     "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/5-12%20Catastrophe.m4a"
   },
   {
+    "title": "Arte Y Majestad",
+    "artist": "Camarón de la Isla",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 180,
+    "genre": "Flamenco",
+    "year": "1971-01-01T12:00:00Z",
+    "filename": "1-07 Arte Y Majestad.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/1-07%20Arte%20Y%20Majestad.m4a"
+  },
+  {
     "title": "How I Could Just Kill a Man",
     "artist": "Cypress Hill",
     "album": "Original Album Classics: Cypress Hill",
@@ -518,6 +638,26 @@
     "year": "1998-09-05T12:00:00Z",
     "filename": "4-04 Prelude to a Come Up (feat. MC.m4a",
     "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/4-04%20Prelude%20to%20a%20Come%20Up%20(feat.%20MC.m4a"
+  },
+  {
+    "title": "Volando Voy",
+    "artist": "Camarón de la Isla",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 212,
+    "genre": "Flamenco",
+    "year": "1990-01-01T12:00:00Z",
+    "filename": "2-10 Volando Voy.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/2-10%20Volando%20Voy.m4a"
+  },
+  {
+    "title": "Canastera",
+    "artist": "Camarón de la Isla",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 230,
+    "genre": "Flamenco",
+    "year": "1972-01-01T12:00:00Z",
+    "filename": "2-05 Canastera.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/2-05%20Canastera.m4a"
   },
   {
     "title": "No Rest for the Wicked",
@@ -568,6 +708,26 @@
     "year": "1991-08-13T12:00:00Z",
     "filename": "1-09 Real Estate.m4a",
     "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/1-09%20Real%20Estate.m4a"
+  },
+  {
+    "title": "Caminito De Totana",
+    "artist": "Camarón de la Isla & Paco de Lucía",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 186,
+    "genre": "Flamenco",
+    "year": "1971-01-01T12:00:00Z",
+    "filename": "1-05 Caminito De Totana.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/1-05%20Caminito%20De%20Totana.m4a"
+  },
+  {
+    "title": "Soy Gitano (Tangos)",
+    "artist": "Camarón de la Isla",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 255,
+    "genre": "Flamenco",
+    "year": "1979-01-01T12:00:00Z",
+    "filename": "1-15 Soy Gitano (Tangos).m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/1-15%20Soy%20Gitano%20(Tangos).m4a"
   },
   {
     "title": "Steel Magnolia (feat. Barron Ricks)",
@@ -630,6 +790,16 @@
     "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/2-12%20A%20to%20the%20K.m4a"
   },
   {
+    "title": "Las Doce Acaban De Dar",
+    "artist": "Paco de Lucía & Camarón de la Isla",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 137,
+    "genre": "Flamenco",
+    "year": "1971-01-01T12:00:00Z",
+    "filename": "2-06 Las Doce Acaban De Dar.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/2-06%20Las%20Doce%20Acaban%20De%20Dar.m4a"
+  },
+  {
     "title": "Riot Starter",
     "artist": "Cypress Hill",
     "album": "Original Album Classics: Cypress Hill",
@@ -638,6 +808,16 @@
     "year": "1998-09-05T12:00:00Z",
     "filename": "4-05 Riot Starter.m4a",
     "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/4-05%20Riot%20Starter.m4a"
+  },
+  {
+    "title": "Tu Mare Rosa",
+    "artist": "Camarón de la Isla",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 294,
+    "genre": "Flamenco",
+    "year": "1986-01-01T12:00:00Z",
+    "filename": "1-13 Tu Mare Rosa.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/1-13%20Tu%20Mare%20Rosa.m4a"
   },
   {
     "title": "High Times",
@@ -660,6 +840,16 @@
     "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/2-04%20When%20the%20Sh--%20Goes%20Down.m4a"
   },
   {
+    "title": "Me Olvidaste Te Olvide",
+    "artist": "Camarón de la Isla, Paco de Lucía & Ramón de Algeciras",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 189,
+    "genre": "Flamenco",
+    "year": "1974-01-01T12:00:00Z",
+    "filename": "2-07 Me Olvidaste Te Olvide.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/2-07%20Me%20Olvidaste%20Te%20Olvide.m4a"
+  },
+  {
     "title": "No puede er primo",
     "artist": null,
     "album": null,
@@ -680,6 +870,26 @@
     "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/1-15%20Tres%20Equis.m4a"
   },
   {
+    "title": "La Leyenda Del Tiempo",
+    "artist": "Camarón de la Isla",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 220,
+    "genre": "Flamenco",
+    "year": "1979-01-01T12:00:00Z",
+    "filename": "1-09 La Leyenda Del Tiempo.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/1-09%20La%20Leyenda%20Del%20Tiempo.m4a"
+  },
+  {
+    "title": "Caminito De La Algaba",
+    "artist": "Camarón de la Isla",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 162,
+    "genre": "Flamenco",
+    "year": "2015-06-02T12:00:00Z",
+    "filename": "2-02 Caminito De La Algaba.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/2-02%20Caminito%20De%20La%20Algaba.m4a"
+  },
+  {
     "title": "Locotes",
     "artist": "Cypress Hill",
     "album": "Original Album Classics: Cypress Hill",
@@ -688,6 +898,26 @@
     "year": "1995-10-31T12:00:00Z",
     "filename": "3-11 Locotes.m4a",
     "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/3-11%20Locotes.m4a"
+  },
+  {
+    "title": "Dicen de Mí",
+    "artist": "Camarón de la Isla",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 275,
+    "genre": "Flamenco",
+    "year": "1979-01-01T12:00:00Z",
+    "filename": "2-13 Dicen de Mí.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/2-13%20Dicen%20de%20Mí.m4a"
+  },
+  {
+    "title": "Un Tiro Al Aire (Alegrías)",
+    "artist": "Camarón de la Isla",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 283,
+    "genre": "Flamenco",
+    "year": "1986-01-01T12:00:00Z",
+    "filename": "1-14 Un Tiro Al Aire (Alegrías).m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/1-14%20Un%20Tiro%20Al%20Aire%20(Alegrías).m4a"
   },
   {
     "title": "Lick a Shot",
@@ -840,6 +1070,26 @@
     "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/2-11%20What%20Go%20Around%20Come%20Around,%20Kid.m4a"
   },
   {
+    "title": "Pueblos De La Tierra Mía",
+    "artist": "Camarón de la Isla",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 189,
+    "genre": "Flamenco",
+    "year": "1979-01-01T12:00:00Z",
+    "filename": "2-11 Pueblos De La Tierra Mía.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/2-11%20Pueblos%20De%20La%20Tierra%20Mía.m4a"
+  },
+  {
+    "title": "Tus Ojillos Negros",
+    "artist": "Camarón de la Isla",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 315,
+    "genre": "Flamenco",
+    "year": "2015-06-02T12:00:00Z",
+    "filename": "2-01 Tus Ojillos Negros.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/2-01%20Tus%20Ojillos%20Negros.m4a"
+  },
+  {
     "title": "Looking Through the Eye of a Pig",
     "artist": "Cypress Hill",
     "album": "Original Album Classics: Cypress Hill",
@@ -888,5 +1138,15 @@
     "year": "1995-10-31T12:00:00Z",
     "filename": "3-03 Stoned Raiders.m4a",
     "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/3-03%20Stoned%20Raiders.m4a"
+  },
+  {
+    "title": "Rosa María",
+    "artist": "Camarón de la Isla",
+    "album": "Antología De Camarón (Remasterizado 2015)",
+    "duration": 134,
+    "genre": "Flamenco",
+    "year": "1976-01-01T12:00:00Z",
+    "filename": "1-08 Rosa María.m4a",
+    "url": "https://raw.githubusercontent.com/jsgaston/Musica_assets_005/main/1-08%20Rosa%20María.m4a"
   }
 ]
